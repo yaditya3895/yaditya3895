@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/7988113/pexels-photo-7988113.jpeg)
+![MasterHead]([https://images.pexels.com/photos/7988113/pexels-photo-7988113.jpeg](https://www.simplilearn.com/ice9/free_resources_article_thumb/is_web_development_good_career.jpg))
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
