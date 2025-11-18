@@ -1,4 +1,4 @@
-(https://javascript.plainenglish.io/10-best-web-development-software-for-web-developer-4d349f486d2a)
+![MasterHead](https://images.pexels.com/photos/7988113/pexels-photo-7988113.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
